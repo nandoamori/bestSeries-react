@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  font-size: 62.5%;
+  background-color: rgb(14, 13, 13);
+  color: white;
+  padding: 2rem;
+}
