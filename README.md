@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Most popular Tv Series
+A page where you can see the most popular TV Series and their information.
+
+Frontend application using [The Movie Database API](https://developers.themoviedb.org). Built with React. 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
